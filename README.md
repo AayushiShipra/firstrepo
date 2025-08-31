@@ -1,4 +1,4 @@
 # firstrepo
 This is my first git repo.
 <br>
-Author - Aayushi Shipra
+Author - Aayushi (GCE Gaya)
